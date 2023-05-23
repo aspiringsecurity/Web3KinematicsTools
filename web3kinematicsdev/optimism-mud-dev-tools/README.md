@@ -1,15 +1,4 @@
-
-## Why MUD?
-
-MUD takes care of all the plumbing of building blockchain-based applications so you can focus on your application logic. In the MUD builders' own words:
-
-> MUD is a framework for ambitious Ethereum applications. It compresses the complexity of building EVM apps with a tightly integrated software stack.
-
-Go take a deep dive at [mud.dev](https://mud.dev/)! You'll be as excited as we are.
-
-[![MUD 101](https://img.youtube.com/vi/IjxzJjJJSs8/0.jpg)](https://www.youtube.com/watch?v=IjxzJjJJSs8)
-
-## Getting Started
+MUD boilerplate on Optimism for Web3 Kinematics Tools
 
 ### Install Node 18
 
