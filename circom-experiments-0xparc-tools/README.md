@@ -1,4 +1,6 @@
-# circom-starter
+# Implementation of Zero Knowledge Proofs using OxPARC's Circom starter 
+
+We are learning to implement Zero Knowledge Proofs using OxPARC's Circom starter in DeSci projects like Web3 Kinematics Tools and User Role Security. 
 
 1. Compile the circuits
 2. Apply the final beacon
