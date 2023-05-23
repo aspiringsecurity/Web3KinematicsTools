@@ -16,7 +16,14 @@ Web3 Kinematics experiments to try using OP Kinematics:
 
 We are using  using Optimism, Lattice's, MUD, 0xPARC and OSS Web3 tools.
 
-We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. We are using a variety of Web3 tools in Optimism to enable: 
+We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. Details and references on Optimism Usage
+
+a. Web3 Kinematics tools and integration using Optimism MUD starter kit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev
+
+b. Optimism based low-code spreadsheet to facilitate measurement of on-chain user analytics and engagement, visualization and leaderboard statistics: We are developing a user analytics and leaderboard template on Optimism based low-code spreadsheet maintained by us for Optimism DeSci projects: please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-calc-analytics-dao 
+
+
+We are using a variety of Web3 tools in Optimism to enable: 
 
 1. Giving free Optimism transactions to DeSci educators sharing lesson plans and game designs for teaching Newton Laws, gravity, circular motion, rotational motion and projectiles.
 
