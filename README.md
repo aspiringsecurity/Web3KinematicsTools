@@ -1,6 +1,6 @@
 # OP Kinematics
 
-Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Lattice's, MUD, 0xPARC and OSS Web3 tools.
+Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, NFT.Storage, Lattice's, MUD, 0xPARC and OSS Web3 tools.
 
 We wish to enable constructionist learning by empowering Web3 game developer community and DeSci educators to build educational games and teach concepts in Kinematics including  Newton Laws, acceleration due to gravity, circular motion, rotational motion and projectiles.
 
