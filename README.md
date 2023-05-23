@@ -13,8 +13,9 @@ Web3 Kinematics experiments to try using OP Kinematics:
 - Convert rotation into parallel motion using pistons.
 - Try building a ratchet mechanism.
 
+# Blockchain Eco-system
 
-We are using  using Optimism, Lattice's, MUD, 0xPARC and OSS Web3 tools.
+We are using  using Optimism, NFT.storage, Lattice's MUD, 0xPARC and OSS Web3 tools.
 
 We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. Details and references on Optimism Usage
 
