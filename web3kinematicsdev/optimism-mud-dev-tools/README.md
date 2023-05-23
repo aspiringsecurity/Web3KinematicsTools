@@ -1,4 +1,4 @@
-MUD boilerplate on Optimism for Web3 Kinematics Tools
+# MUD boilerplate on Optimism for Web3 Kinematics Tools
 
 ### Install Node 18
 
