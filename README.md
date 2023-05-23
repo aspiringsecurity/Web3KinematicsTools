@@ -19,7 +19,7 @@ We are using  using Optimism, NFT.storage, Lattice's MUD, 0xPARC and OSS Web3 to
 
 # OPTIMISM
 
-We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. Details and references on Optimism Usage
+We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. Details and references on Optimism Usage and Interaction:
 
 a. Optimism based low-code spreadsheet to facilitate measurement of on-chain user analytics and engagement, visualization and leaderboard statistics: We are developing a user analytics and leaderboard template on Optimism based low-code spreadsheet maintained by us for Optimism DeSci projects: please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-calc-analytics-dao 
 
@@ -51,7 +51,7 @@ References: Please visit https://github.com/aspiringsecurity/Web3KinematicsTools
 
 # User Role and Data Security using 0xPARC 
 
-Learning to Implement of ZKP and User Roles Security using 0xPARC: We are learning to implement Zero Knowledge Proofs using OxPARC's Circom starter in DeSci projects like Web3 Kinematics Tools and User Role Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
+Learning to Implement of ZKP and User Roles, Data Security using 0xPARC: We are learning to implement Zero Knowledge Proofs using OxPARC's Circom starter in Web3 Kinematics Tools and User Role, Data Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
 
 Simulation and Experiments on learning ZKP implications in Web3 Kinematics Tools: We are trying to simulate Zero Knowledge Proofs and learning their security implications using OxPARC's ZkREPL in Web3 Kinematics Tools and User Role Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
 
