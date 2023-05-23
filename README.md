@@ -21,10 +21,9 @@ We are using  using Optimism, NFT.storage, Lattice's MUD, 0xPARC and OSS Web3 to
 
 We are developing an on-chain Kinematics engine using PyBox2D library and measuring user analytics on-chain using an OSS spreadsheet on Optimism namely OPCalc. Details and references on Optimism Usage and Interaction:
 
-a. Optimism based low-code spreadsheet to facilitate measurement of on-chain user analytics and engagement, visualization and leaderboard statistics: We are developing a user analytics and leaderboard template on Optimism based low-code spreadsheet maintained by us for Optimism DeSci projects: please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-calc-analytics-dao 
+a. Web3 Kinematics tools and integration using Optimism MUD starter kit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev and https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-mud-dev-tools
 
-b. Web3 Kinematics tools and integration using Optimism MUD starter kit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev
-
+b. Optimism based low-code spreadsheet to facilitate measurement of on-chain user analytics and engagement, visualization and leaderboard statistics: We are developing a user analytics and leaderboard template on Optimism based low-code spreadsheet maintained by us for Optimism DeSci projects: please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-calc-analytics-dao 
 
 Future Goals: We wish to use a variety of Web3 tools in Optimism to enable: 
 
