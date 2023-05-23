@@ -49,7 +49,7 @@ We are learning to extend the Lattice's MUD framework react starter kit and MUD 
 References: Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/Export-as-NFT-upload-to-IPFS-with-NFTStorage/MUD-boilerplate-game-analytics-react and Web3 Kinematics tools and integration using Optimism MUD starter kit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev
 
 
-# 0xPARC 
+# User Role and Data Security using 0xPARC 
 
 Learning to Implement of ZKP and User Roles Security using 0xPARC: We are learning to implement Zero Knowledge Proofs using OxPARC's Circom starter in DeSci projects like Web3 Kinematics Tools and User Role Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
 
