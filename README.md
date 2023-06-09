@@ -1,6 +1,6 @@
 # Web3 Kinematics Tools
 
-Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Theta, NFT.Storage, Lattice's, MUD, 0xPARC and OSS Web3 tools.
+Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Chainlink VRF, NFT.Storage, Lattice's, MUD, Flow, Space and Time, 0xPARC and OSS Web3 tools.
 
 We wish to enable constructionist learning by empowering Web3 game developer community and DeSci educators to build educational games and teach concepts in Kinematics including  Newton Laws, acceleration due to gravity, circular motion, rotational motion and projectiles.
 
@@ -15,17 +15,14 @@ Web3 Kinematics experiments to try using OP Kinematics:
 
 # Blockchain Eco-system
 
-We are using  using Optimism, Theta Blockchain, NFT.storage, Lattice's MUD, 0xPARC and OSS Web3 tools.
+We are using  using Optimism, Chainlink VRF, Flow Blockchain, NFT.storage, Lattice's MUD, Space and Time, 0xPARC and OSS Web3 tools.
 
-# Theta Blockchain
+# Chainlink Blockchain
 
-1. Theta Analytics Tools for on-chain user activity: Integration with OSS spreadsheet for tabulation, organization and validation. Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/web3kinematicsdev/optimism-calc-analytics-dao/theta-data
+1. Chainlink Analytics Tools for on-chain user activity: Integration with OSS spreadsheet for tabulation, organization and validation. 
 
-2. Theta Video Recording Module (Theta on-chain interaction): Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/theta-video-module
+2. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
 
-3. Theta Physics Storyboard Builder: Create and share your own Physics activities on theta blockchain network. Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/theta22-share-game
-
-4. Theta User Security Module: Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/Theta-user-Security
 
 # OPTIMISM
 
@@ -63,6 +60,15 @@ References: Please visit https://github.com/aspiringsecurity/Web3KinematicsTools
 Learning to Implement of ZKP and User Roles, Data Security using 0xPARC: We are learning to implement Zero Knowledge Proofs using OxPARC's Circom starter in Web3 Kinematics Tools and User Role, Data Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
 
 Simulation and Experiments on learning ZKP implications in Web3 Kinematics Tools: We are trying to simulate Zero Knowledge Proofs and learning their security implications using OxPARC's ZkREPL in Web3 Kinematics Tools and User Role Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
+
+
+# Theta Blockchain
+
+Theta User Security Module: Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/Theta-user-Security
+
+Theta Video Recording Module (Theta on-chain interaction): Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/theta-video-module
+
+
 
 
 
