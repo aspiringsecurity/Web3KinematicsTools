@@ -21,7 +21,11 @@ We are using  using Optimism, Chainlink VRF, Flow Blockchain, NFT.storage, Latti
 
 1. Chainlink Analytics Tools for on-chain user activity: Integration with OSS spreadsheet for tabulation, organization and validation. 
 
-2. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
+2a. Payouts of Scholarships to EWS (Economically Weaker Students) to learn Physics for free: Chainlink Parametric Insurance dapp at
+https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout
+
+2b. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
+
 
 3. NFT certificate for submitting Physics activities using Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating
 
