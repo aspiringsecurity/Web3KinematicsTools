@@ -23,6 +23,13 @@ We are using  using Optimism, Chainlink VRF, Flow Blockchain, NFT.storage, Latti
 
 2. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
 
+3. NFT certificate for submitting Physics activities using Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating
+
+4. Dynamic NFT using Space and Time and Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating/Web3-SxT-dNFT
+
+Dynamic NFT generated for educators and physics content creators for submitting Physics activities using Chainlink services.
+
+5. Creating a PhyKT token (physics activity token) and submitting to Verse DEX: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout/Token-verse-dex
 
 # OPTIMISM
 
