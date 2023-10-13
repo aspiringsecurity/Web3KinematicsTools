@@ -1,6 +1,0 @@
-*.swp
-*.swo
-src/jx_include
-dist/
-erl_crash.dump
-src/jex_include
