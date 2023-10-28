@@ -1,6 +1,6 @@
-# Web3 Kinematics Tools
+# OP Kinematics
 
-Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Chainlink VRF, NFT.Storage, Lattice's, MUD, Flow, Space and Time, 0xPARC and OSS Web3 tools.
+Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Chainlink VRF, NFT.Storage, Lattice's, MUD, 0xPARC and OSS Web3 tools.
 
 We wish to enable constructionist learning by empowering Web3 game developer community and DeSci educators to build educational games and teach concepts in Kinematics including  Newton Laws, acceleration due to gravity, circular motion, rotational motion and projectiles.
 
@@ -15,25 +15,8 @@ Web3 Kinematics experiments to try using OP Kinematics:
 
 # Blockchain Eco-system
 
-We are using  using Optimism, Chainlink VRF, Flow Blockchain, NFT.storage, Lattice's MUD, Space and Time, 0xPARC and OSS Web3 tools.
+We are using  using Optimism, Lattice's MUD, Chainlink VRF, NFT.storage, 0xPARC and OSS Web3 tools.
 
-# Chainlink Blockchain
-
-1. Chainlink Analytics Tools for on-chain user activity: Integration with OSS spreadsheet for tabulation, organization and validation. 
-
-2a. Payouts of Scholarships to EWS (Economically Weaker Students) to learn Physics for free: Chainlink Parametric Insurance dapp at
-https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout
-
-2b. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
-
-
-3. NFT certificate for submitting Physics activities using Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating
-
-4. Dynamic NFT using Space and Time and Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating/Web3-SxT-dNFT
-
-Dynamic NFT generated for educators and physics content creators for submitting Physics activities using Chainlink services.
-
-5. Creating a PhyKT token (physics activity token) and submitting to Verse DEX: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout/Token-verse-dex
 
 # OPTIMISM
 
@@ -73,7 +56,26 @@ Learning to Implement of ZKP and User Roles, Data Security using 0xPARC: We are 
 Simulation and Experiments on learning ZKP implications in Web3 Kinematics Tools: We are trying to simulate Zero Knowledge Proofs and learning their security implications using OxPARC's ZkREPL in Web3 Kinematics Tools and User Role Security. Please visit https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/circom-experiments-0xparc-tools
 
 
-# Theta Blockchain
+# Chainlink Blockchain
+
+1. Chainlink Analytics Tools for on-chain user activity: Integration with OSS spreadsheet for tabulation, organization and validation. 
+
+2a. Payouts of Scholarships to EWS (Economically Weaker Students) to learn Physics for free: Chainlink Parametric Insurance dapp at
+https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout
+
+2b. Physics Storyboard Builder: Create and share your own Physics activities on Chainlink blockchain network. 
+
+
+3. NFT certificate for submitting Physics activities using Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating
+
+4. Dynamic NFT using Space and Time and Chainlink services: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/NFT-giveaway-certificate-service-rating/Web3-SxT-dNFT
+
+Dynamic NFT generated for educators and physics content creators for submitting Physics activities using Chainlink services.
+
+5. Creating a PhyKT token (physics activity token) and submitting to Verse DEX: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout/Token-verse-dex
+
+
+- Theta Blockchain
 
 Theta User Security Module: Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/Theta-user-Security
 
