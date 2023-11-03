@@ -1,4 +1,4 @@
-# OP Kinematics
+# OP Kinematics ( Project in OP Nodekit Collective)
 
 Developer tools to enable DeSci educators and Web3 game designers to create a kinematics playground and simulator to develop on-chain educational games -- you can add and create a variety of shapes, and see them come to life with forces (visualize gravity (g), Newton!), friction (scrrape), and inertia (think, slow down!) using Optimism, Chainlink VRF, NFT.Storage, Lattice's, MUD, 0xPARC and OSS Web3 tools.
 
