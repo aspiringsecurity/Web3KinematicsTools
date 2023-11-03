@@ -75,11 +75,7 @@ Dynamic NFT generated for educators and physics content creators for submitting 
 5. Creating a PhyKT token (physics activity token) and submitting to Verse DEX: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/EWS-Students-Free-Learning-payout/Token-verse-dex
 
 
-- Theta Blockchain
 
-Theta User Security Module: Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/Theta-user-Security
-
-Theta Video Recording Module (Theta on-chain interaction): Please visit: https://github.com/aspiringsecurity/Web3KinematicsTools/tree/main/theta-video-module
 
 
 
